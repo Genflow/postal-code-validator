@@ -150,8 +150,7 @@ class Validator
         'JE' => array('JE# #@@', 'JE## #@@'),       # Jersey
         'JM' => array('##'),                        # JAMAICA
         'JO' => array('#####'),                     # JORDAN
-        'JP' => array('###-####', '###'),           # JAPAN
-
+        'JP' => array('###-####', '###', '#######'),# JAPAN
         'KE' => array('#####'),                     # KENYA
         'KG' => array('######'),                    # KYRGYZSTAN
         'KH' => array('#####'),                     # CAMBODIA
